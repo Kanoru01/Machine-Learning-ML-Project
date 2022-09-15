@@ -1,4 +1,4 @@
-# Machine-Learning-ML-Project
+# Customer Churn In SyriaTel
 John Kanoru Macharia
 
 # Table Of Contents
